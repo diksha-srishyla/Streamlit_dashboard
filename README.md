@@ -1,4 +1,4 @@
-# Streamlit_dashboard
+# Chulha usage and health implications in Alwar, Rajasthan
 
 This repository contains the code to analyze data on "chulha" stove usage and health risk in Rajasthan.
 
